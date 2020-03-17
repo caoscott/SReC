@@ -1,0 +1,4 @@
+*.tfevents.*
+*.pyc
+.vscode
+*.json
