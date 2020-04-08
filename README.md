@@ -9,14 +9,14 @@
 </div>
 
 ## Citation
-<pre>
+```bibtex
 @article{cao2020lossless,
   title={Lossless Image Compression through Super-Resolution},
   author={Cao, Sheng and Wu, Chao-Yuan and and Kr{\"a}henb{\"u}hl, Philipp},
   year={2020},
   journal={arXiv preprint arXiv:2004.02872},
 }
-</pre>
+```
 
 If you use our codebase, please consider also [citing L3C](https://github.com/fab-jul/L3C-PyTorch#citation)
 
